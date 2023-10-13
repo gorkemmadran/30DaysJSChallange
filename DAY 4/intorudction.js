@@ -1,3 +1,4 @@
+/*
 let num = 3;
 if (num >= 0){
 console.log('Evet 3, 0 dan büyüktür')
@@ -67,4 +68,5 @@ switch(sayi){
         break
     default :
         console.log('Bilemedin..')
-}
+ }
+ */
