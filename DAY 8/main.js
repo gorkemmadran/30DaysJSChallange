@@ -1,4 +1,5 @@
 // a = 5;  // Window scope
+/*
 
 let name = 'Görkem'         //GLOBAL SCOPE
 let surName = 'Madran'
@@ -50,3 +51,4 @@ user.getPersonInfo = function(){
 }
 console.log(user.getPersonInfo())
 
+*/
